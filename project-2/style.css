@@ -1,0 +1,16 @@
+.dice-box {
+    justify-content: center;
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 200px;
+    background-color: rgb(216, 61, 118);
+    border: 0;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
+h1{
+    font-size: 6rem;
+}
