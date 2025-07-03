@@ -31,7 +31,7 @@ function randomNumber(){
 
 button.addEventListener("click", function(){
     const result = randomNumber()
-    img.src = `/project-3/images/dice${result}.png`
+    img.src = `/project-2/images/dice${result}.png`
     const newH1 = h1.textContent = result
 })
 
